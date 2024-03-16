@@ -1,13 +1,15 @@
 # backend_Community
 ## Clonar el repositorio
 ```bash
-git clone https://github.com/KuajinaiSS/Prueba_2.git
+git clone https://github.com/KuajinaiSS/backend_Community.git
 ```
+
 ### Instalar Backend
 ```bash
 cd backend
 copy .env.example .env
 ```
+
 ### Configuraremos el .env con las credenciales de Mysql
 DB_USERNAME=root
 
