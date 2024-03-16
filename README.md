@@ -21,4 +21,6 @@ php artisan serve
 ```
 
 ### Uso del Backend
-`php artisan serve`
+```bash
+php artisan serve
+```
