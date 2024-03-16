@@ -8,9 +8,8 @@ git clone https://github.com/KuajinaiSS/Prueba_2.git
 cd backend
 copy .env.example .env
 ```
-#### Configuraremos el .env con las credenciales de Mysql
+### Configuraremos el .env con las credenciales de Mysql
 DB_USERNAME=root
-
 DB_PASSWORD=
 
 ```bash
